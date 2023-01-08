@@ -1,2 +1,2 @@
-# Epicduel: Hands-Free
+# RoboDuel
 An awesome script(s) that has a clean window
