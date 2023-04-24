@@ -1,14 +1,8 @@
 General
 =============
-#. **Disclaimer** The use of this script is at your own risk. While the script has been tested and is functional, it does violate the terms of service of Epicduel any result in penalties such as bans or suspensions. I am not responsible for any consequences that may arise from the use of this script. Use it responsibly and at your own discretion.
-#. I will not be sharing the full source code for the better. The mods will nuke this code faster knowing how it works exactly.
-#. If you have any issues/questions/suggestions feel free to DM me on discord at JustAlex#7798
-
-How to use script(s)
-=============
-#. You should first look through the settings and enable or disable what you would like.
-#. Run the script and have fun scripting.
-#. See statistics such as screenshots of losses, wins, real players in juggeranut, etc.
+#. **Disclaimer:** The use of this script is at your own risk. While the script has been tested and is functional, it does violate the terms of service of Epicduel any result in penalties such as bans or suspensions. I am not responsible for any consequences that may arise from the use of this script. Use it responsibly and at your own discretion.
+#. I will not be sharing the full source code. The mods will nuke this code faster knowing how it works exactly.
+#. If you have any issues/questions/suggestions, feel free to DM me on discord at JustAlex#7798
 
 Q & A
 =============
