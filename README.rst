@@ -4,7 +4,7 @@
 | Pyautogui                         | | ``Mostly used for detecting images on screen but also uses mouse and keyboard functions``        |
 |                                   | | ``Link to GitHub:`` https://github.com/asweigart/pyautogui                                       |
 +-----------------------------------+----------------------------------------------------------------------------------------------------+
-| Customtkinter                     | | ``This is used to make the main GUI and I really recommend checking it out.``                    |
+| CustomTkinter                     | | ``This is used to make the main GUI and I really recommend checking it out.``                    |
 |                                   | | ``Link to GitHub:`` https://github.com/TomSchimansky/CustomTkinter                               |
 +-----------------------------------+----------------------------------------------------------------------------------------------------+
 | EasyORC                           | | ``Used to detect numbers and also words on screen.``                                             |
