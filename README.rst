@@ -4,6 +4,12 @@ General
 #. I will not be sharing the full source code. The mods will nuke this code faster knowing how it works exactly.
 #. If you have any issues/questions/suggestions, feel free to DM me on discord at JustAlex#7798
 
+How to use the script
+=============
+#. You should first look through the settings and enable or disable what you would like.
+#. Run the script and have fun scripting.
+#. See statistics such as screenshots of losses, wins, real players in juggeranut, etc.
+
 Q & A
 =============
 #. ``How long did this take you?`` It took me about 6 months on and off, not much motivation, started from scratch. I do have a bit of time after school and this is a side project I enjoy doing for the community.
