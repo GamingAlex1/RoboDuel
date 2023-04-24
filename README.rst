@@ -1,3 +1,24 @@
+General
+=============
+#. **Disclaimer** The use of this script is at your own risk. While the script has been tested and is functional, it does violate the terms of service of Epicduel any result in penalties such as bans or suspensions. I am not responsible for any consequences that may arise from the use of this script. Use it responsibly and at your own discretion.
+#. I will not be sharing the full source code for the better. The mods will nuke this code faster knowing how it works exactly.
+#. If you have any issues/questions/suggestions feel free to DM me on discord at JustAlex#7798
+
+How to use script(s)
+=============
+#. You should first look through the settings and enable or disable what you would like.
+#. Run the script and have fun scripting.
+#. See statistics such as screenshots of losses, wins, real players in juggeranut, etc.
+
+Q & A
+=============
+#. ``How long did this take you?`` It took me about 6 months on and off, not much motivation, started from scratch. I do have a bit of time after school and this is a side project I enjoy doing for the community.
+#. ``For free?`` Yes, as a gamer and scripter in other games, I always hated seeing decent scripts with a pallwall so I decided not to include something like that. I do understand other devlopers may have put a lot more time into it than myself, but you get the point.
+#. ``What happened to the other script?`` I lost all motivation and that is around the time I got banned on Epicduel. I was looking for someone to keep updating it but didn't find anyone. 
+#. ``Your scripts are trash!`` I tried my best making this script, you either like it or you don't. I made this script for easy install and sharablilty, not exactly for speed, if you want to search for fast speed scripts you must go elsewhere do not DM for the place for that.
+#. ``It seems like my build doesn't work`` This script may not work with every build, it is not perfect, this is not an Epicduel AI it is strictly monkey see monkey do. Only some builds have been constructed for this script I may or may not have them in a images folder for you to see them.
+#. ``I got banned`` Ok, what do you want me to do about that lol.
+
 +-----------------------------------+----------------------------------------------------------------------------------------------------+
 | Python module                     | Usage                                                                                              |
 +===================================+====================================================================================================+
