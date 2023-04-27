@@ -7,6 +7,7 @@
    :target: https://www.python.org/
 
 .. |Wikipedia| image:: https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white
+   :target: https://github.com/GamingAlex1/RoboDuel/wiki
 
 General
 =============
