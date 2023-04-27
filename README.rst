@@ -14,6 +14,7 @@ General
 #. **Disclaimer:** The use of this script is at your own risk. While the script has been tested and is functional, it does violate the terms of service of Epicduel any result in penalties such as bans or suspensions. I am not responsible for any consequences that may arise from the use of this script. Use it responsibly and at your own discretion.
 #. I will not be sharing the full source code. The mods will nuke this code faster knowing how it works exactly.
 #. If you have any issues/questions/suggestions, feel free to DM me on discord at JustAlex#7798
+#. You may have an issue or have a question that may be answered already, feel free to enter the wiki https://github.com/GamingAlex1/RoboDuel/wiki
 
 How to use the script
 =============
