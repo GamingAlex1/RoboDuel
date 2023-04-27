@@ -1,6 +1,10 @@
 .. image:: https://github.com/GamingAlex1/RoboDuel/blob/main/Banner-01.png
-Credit to Kimo for the banner.
+**Credit to Kimo for the banner.**
 
+|forthebadge made-with-python|
+
+.. |forthebadge made-with-python| image:: http://ForTheBadge.com/images/badges/made-with-python.svg
+   :target: https://www.python.org/
 General
 =============
 #. **Disclaimer:** The use of this script is at your own risk. While the script has been tested and is functional, it does violate the terms of service of Epicduel any result in penalties such as bans or suspensions. I am not responsible for any consequences that may arise from the use of this script. Use it responsibly and at your own discretion.
