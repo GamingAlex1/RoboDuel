@@ -123,6 +123,8 @@ def reply(current_version): # Different function for more readability.
     # If the user input is yes, call the update_files function with the current version
     if yesNo.lower() in ["y", "yes", "ye", "ok", "positive", "sure", "yea", "yeah", "okay", "alright", "accept", "yup", "grant", "alrighty", "indeed", "permit", "agreed", "agree"]:
         update_files(current_version)
+    elif yesNo.lower() == "idk":
+        print("Well, I do not know either, make up your damn mind.")
     # Otherwise, print a message indicating that the update process has been cancelled
     else:
         print("Ok, no problem.")
