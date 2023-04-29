@@ -21,6 +21,8 @@ How to use the script
 #. You should first look through the settings and enable or disable what you would like.
 #. Run the script and have fun scripting.
 #. See statistics such as screenshots of losses, wins, real players in juggeranut, etc.
+#. Language must be set to **English** for the script text detection to work.
+#. .. image:: https://github.com/GamingAlex1/RoboDuel/blob/main/delete_me/language.png
 
 Q & A
 =============
