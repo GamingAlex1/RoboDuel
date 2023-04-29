@@ -1,4 +1,4 @@
-.. image:: https://github.com/GamingAlex1/RoboDuel/blob/main/Banner-01.png
+.. image:: https://github.com/GamingAlex1/RoboDuel/blob/main/delete_me/Banner-01.png
 **Credit to Kimo for the banner.**
 
 |forthebadge made-with-python| |Wikipedia|
