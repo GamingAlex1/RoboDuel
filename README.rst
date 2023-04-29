@@ -23,6 +23,7 @@ How to use the script
 #. See statistics such as screenshots of losses, wins, real players in juggeranut, etc.
 #. Language must be set to **English** for the script text detection to work.
 #. .. image:: https://github.com/GamingAlex1/RoboDuel/blob/main/delete_me/language.png
+#. .. image:: https://github.com/GamingAlex1/RoboDuel/blob/main/delete_me/quality.png
 
 Q & A
 =============
