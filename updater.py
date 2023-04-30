@@ -42,7 +42,7 @@ def check_for_updates():
     # If we run into the GitHub API rate limit then we will stop and the user will have to
     # download it themselves :(
     except KeyError:
-        print("Github API rate limit reached. Please try again later(1 hour or less from now).")
+        print("Github API rate limit reached. Please try again later.")
         return
 
     # The GitHub r.json call has utf-8 formatting so we want to decode that and make it
